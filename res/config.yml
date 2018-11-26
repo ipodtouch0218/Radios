@@ -1,0 +1,9 @@
+stations:
+  video-game:
+    name: "Video Game Station"
+    frequency: 89.3
+    song-directory: /music/video-game/
+  rock:
+    name: "Rock Station"
+    frequency: 90.7
+    song-directory: /music/rock/

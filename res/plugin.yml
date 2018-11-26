@@ -1,0 +1,9 @@
+name: Radios
+version: 1.0
+author: ipodtouch0218
+
+main: net.iccraft.radios.RadiosCore
+commands:
+  radio:
+    usage: /<command> <scan/tune/off/volume/disp> [frequency/player]
+    description: Join or lists a Radio Station

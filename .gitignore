@@ -1,0 +1,9 @@
+.settings
+.classpath
+.project
+*.iml
+.gitattributes
+target
+
+*.class
+*.jar
